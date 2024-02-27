@@ -1,2 +1,41 @@
-test
 
+Guide:
+	[[#Features in NLP]]
+	[[#Preprocessing]]
+
+### Features in NLP
+
+**Tokenization** - the process of breaking a complex piece of text into smaller units (tokens)
+- A token can be as simple as a word or punctuation 
+
+**Sparse Representation** - Representation with a small relative number of non-zero values 
+- Ex: Representing "I am happy" as [1, 1, 0, 1, 0..., 0] where the first element in the array represents the existence of the word "I", the second element for "am", the third element for some word not in "I am happy", and the fourth element in "happy."
+- Issue: When we have a large set of sentences, we have millions of words so our vocabulary will be millions of words and we will have to represent each sentence as an array of with millions of elements (even though only very few of the elements will have "1" and the rest are "0"s). 
+
+**Frequency Dictionary** - A tool used to map a class (ex. Nice or Mean) and the words to the amount of times that words showed up in that class
+- It's useful for representing the most common words in one class (ex. Nice) and the most common words in another class (ex. Mean) so that we can classify a new sentence as Nice or Mean depending on how many Nice and Mean words show up in the sentence
+
+**Feature Extraction with Frequency Dictionary** - Instead of having features with length of the total vocabulary, we can have feature with length of 3 (array with 3 elements)
+- [30 second article about this from the course](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/supplement/sfhGt/feature-extraction-with-frequencies)
+![[Pasted image 20240227164358.png]]
+
+---
+### Preprocessing:
+
+**Stop Words** - Words that appear in English but don't have much affect on the sentiment/meaning of sentences
+- Ex. And, Is, Are, At, Has, For, A
+
+**Stemming** - Changing words to their base values so that we cut down the amount of unique words
+- Ex. Tune, Tuning, Tuned all have the same **stem** "tun" and they all have similar meaning so we can represent them all as the word "tun" to limit the amount of unique words we have to pay attention to
+- You can use porter stemmer to take care of this
+- ![[Pasted image 20240227165855.png]]
+
+**Notes:**
+- We also get rid of **punctuation** (ex. ! . , " ;) most of the time, except when it's necessary for your specific ML task
+	- Ex. keeping https:// when you want to identify spam emails and suspicious links
+
+- It's also important to convert all words to **lowercase**
+
+- Example: "Tuning GREAT AI models" turns into [tun, great, ai, models] due to stemming and lowercasing
+
+---

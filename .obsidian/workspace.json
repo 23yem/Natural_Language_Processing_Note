@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91a9263b6b9f005f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fde6402cf8d85e88",
             "type": "leaf",
             "state": {
@@ -29,21 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "cbb59ff28e7537d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ab81750cf4275e2e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -175,8 +148,17 @@
   },
   "active": "fde6402cf8d85e88",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Labs/Week1_Logistic_Regression/C1_W1_lecture_nb_01_preprocessing.ipynb",
+    "Labs/C1_W1_lecture_nb_01_preprocessing.ipynb",
+    "Labs/Week1_Logistic_Regression",
+    "Labs/New folder",
+    "Labs",
+    "New folder",
+    "C1_W1_lecture_nb_01_preprocessing.ipynb",
+    "Pasted image 20240227165855.png",
+    "Pasted image 20240227164358.png",
     "Logistic Regression.md",
+    "Welcome.md",
     "Machine Learning.md",
     "create a link.md"
   ]
