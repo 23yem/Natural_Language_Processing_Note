@@ -2,6 +2,7 @@
 Guide:
 	[[#Features in NLP]]
 	[[#Preprocessing]]
+	
 
 ### Features in NLP
 
@@ -39,3 +40,18 @@ Guide:
 - Example: "Tuning GREAT AI models" turns into [tun, great, ai, models] due to stemming and lowercasing
 
 ---
+
+### Putting it All Together
+
+
+Cycle - Here's a simple three-step cycle:
+1. Create **Frequency Dictionary**
+2. **Preprocess** each sentence in the database
+3. **Extract features** from each sentence in the database into a matrix so that each row in the matrix represents a single sentence and each column (3 columns total) represents:
+	- [bias, sum of positive frequency, sum of negative frequency]
+	- The dimension of the matrix is therefore (m, 3), where "m" is the number of sentences in the database
+	- An example matrix would look like this:
+		- [ [1, 48, 3],
+			[1, 2, 70],
+			[1, 40, 58] ]
+
