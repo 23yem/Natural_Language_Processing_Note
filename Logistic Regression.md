@@ -63,7 +63,7 @@ Cycle - Here's a simple three-step cycle for converting text data to data that i
 
 ![[Pasted image 20240227185801.png]]
 - Here, $\theta$ (theta) represents the vector (list) of all the weights (ex. $\theta_0$ represents the bias (b), while $\theta_1$ represents the first weight). In other words, it's the same thing as "w" in y = wx + b. 
-	- Each input (ex. a sentence) has it's own $\theta$ value since each input has it's own vector of values for each of the weights.
+	- A full trained model will have all of it's $\theta$ values determined. Just like in neural networks, a logistic regression model is fully trained when it has an architecture and weights
 - $x^{(i)}$ represents i'th (ex. the 1st or 2nd element). 
 	- For example, $x^{(1)}$ represents the 1st sentence. Given our feature extraction process, it can be $x^{(1)} = [1, 60, 3]$, where "1" is the bias, "60" is the sum of the positive frequency, and "3" is the sum of the negative frequency. 
 		- So in this example, the first sentence would be a very positive sentence
