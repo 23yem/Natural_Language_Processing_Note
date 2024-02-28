@@ -1,10 +1,12 @@
 
-Guide:
+**Table of Contents:**
 	[[#Features in NLP]]
 	[[#Preprocessing]]
 	[[#Putting it All Together]]
 	[[#Logistic Regression]]
 	
+
+[[Week1_Slides.pdf|Week 1 Lecture Slides from the course]]
 
 ### Features in NLP
 
