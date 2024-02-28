@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fa32d62ba885a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naive Bayes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logistic Regression.md",
+                "file": "Naive Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logistic Regression.md",
+                "file": "Naive Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logistic Regression.md"
+                "file": "Naive Bayes.md"
               }
             }
           }
@@ -146,8 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb6fd68c379438c2",
+  "active": "1fa32d62ba885a62",
   "lastOpenFiles": [
+    "Logistic Regression.md",
+    "Naive Bayes.md",
+    "Pasted image 20240228164419.png",
     "Assignment1/__pycache__/utils.cpython-310.pyc",
     "Assignment1/__pycache__/utils.cpython-310.pyc.140427543252464",
     "Assignment1/__pycache__/w1_unittest.cpython-310.pyc",
@@ -159,10 +175,8 @@
     "Assignment1/__pycache__/w1_unittest.cpython-37.pyc",
     "Assignment1/__pycache__/utils.cpython-37.pyc",
     "Assignment1/__pycache__",
-    "Assignment1/w1_unittest.py",
     "Assignment1/work/images/sigmoid_plot.jpg",
     "work/images/sigmoid_plot.jpg",
-    "Logistic Regression.md",
     "Week.md",
     "[[Week1_Slides.pdf]].md",
     "Pasted image 20240227164358.png",
