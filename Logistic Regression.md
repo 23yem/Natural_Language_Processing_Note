@@ -2,6 +2,8 @@
 Guide:
 	[[#Features in NLP]]
 	[[#Preprocessing]]
+	[[#Putting it All Together]]
+	[[#Logistic Regression]]
 	
 
 ### Features in NLP
@@ -44,7 +46,7 @@ Guide:
 ### Putting it All Together
 
 
-Cycle - Here's a simple three-step cycle:
+Cycle - Here's a simple three-step cycle for converting text data to data that is ready to be fed into Machine Learning Models:
 1. Create **Frequency Dictionary**
 2. **Preprocess** each sentence in the database
 3. **Extract features** from each sentence in the database into a matrix so that each row in the matrix represents a single sentence and each column (3 columns total) represents:
@@ -55,3 +57,17 @@ Cycle - Here's a simple three-step cycle:
 			[1, 2, 70],
 			[1, 40, 58] ]
 
+---
+
+### Logistic Regression
+
+![[Pasted image 20240227185801.png]]
+- Here, $\theta$ (theta) represents the vector (list) of all the weights (ex. $\theta_0$ represents the bias (b), while $\theta_1$ represents the first weight). In other words, it's the same thing as "w" in y = wx + b. 
+	- Each input (ex. a sentence) has it's own $\theta$ value since each input has it's own vector of values for each of the weights.
+- $x^{(i)}$ represents i'th (ex. the 1st or 2nd element). 
+	- For example, $x^{(1)}$ represents the 1st sentence. Given our feature extraction process, it can be $x^{(1)} = [1, 60, 3]$, where "1" is the bias, "60" is the sum of the positive frequency, and "3" is the sum of the negative frequency. 
+		- So in this example, the first sentence would be a very positive sentence
+
+
+
+---
