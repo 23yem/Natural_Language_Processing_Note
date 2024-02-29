@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logistic Regression.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fa32d62ba885a62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Naive Bayes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7c3a972bef1d5b5",
@@ -159,32 +147,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fa32d62ba885a62",
+  "active": "cb6fd68c379438c2",
   "lastOpenFiles": [
-    "Logistic Regression.md",
+    "Assignment2/support_files/loglikelihood_test.pkl",
+    "Assignment2/support_files/freqs_dict.pkl",
+    "Assignment2/w2_unittest.py",
+    "Assignment2/utils.py",
+    "Assignment2/support_files",
+    "Assignment2/C1_W2_Assignment.ipynb",
+    "Assignment2",
+    "work/support_files/loglikelihood_test.pkl",
+    "work/support_files/freqs_dict.pkl",
+    "work/w2_unittest.py",
+    "work/utils.py",
     "Naive Bayes.md",
+    "Pasted image 20240228173131.png",
+    "Pasted image 20240228173107.png",
+    "Logistic Regression.md",
+    "Pasted image 20240228172125.png",
+    "Pasted image 20240228164743.png",
     "Pasted image 20240228164419.png",
-    "Assignment1/__pycache__/utils.cpython-310.pyc",
-    "Assignment1/__pycache__/utils.cpython-310.pyc.140427543252464",
-    "Assignment1/__pycache__/w1_unittest.cpython-310.pyc",
-    "Assignment1/__pycache__/w1_unittest.cpython-310.pyc.140427659638400",
-    "Assignment1/utils.py",
-    "Assignment1/C1_W1_Assignment.ipynb",
     "Assignment1/images/sigmoid_plot.jpg",
-    "Assignment1/images",
-    "Assignment1/__pycache__/w1_unittest.cpython-37.pyc",
-    "Assignment1/__pycache__/utils.cpython-37.pyc",
-    "Assignment1/__pycache__",
     "Assignment1/work/images/sigmoid_plot.jpg",
     "work/images/sigmoid_plot.jpg",
     "Week.md",
     "[[Week1_Slides.pdf]].md",
     "Pasted image 20240227164358.png",
     "Pasted image 20240227185801.png",
-    "Pasted image 20240227185753.png",
-    "Pasted image 20240227185051.png",
-    "Pasted image 20240227185048.png",
-    "Pasted image 20240227165855.png",
     "Welcome.md",
     "Machine Learning.md",
     "create a link.md"
