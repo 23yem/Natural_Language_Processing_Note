@@ -5,9 +5,12 @@ Table of Contents:
 	[[#Naive Bayes Cycle]]
 
 
+[[Week2_Slides.pdf|Week 2 Lecture Slides from the course]]
+
+---
 
 
-### Probability:
+# Probability:
 
 **Probability of Intersection $P(A \cap B)$** - The probability of $P(A \cap B)$, also written as P(A,B), is the number of elements in the intersection divided by the number of total elements 
 
@@ -26,7 +29,7 @@ Table of Contents:
 
 ---
 
-### Naive Bayes 
+# Naive Bayes 
 
 **Naive Bayes Formula for Binary Classification** - $\prod_{i=1}^{m} \frac{P(w_i|\text{pos})}{P(w_i|\text{neg})}$
 
@@ -59,11 +62,11 @@ Table of Contents:
 
 ---
 
-### Naive Bayes Cycle
+# Naive Bayes Cycle
 
 **Step 0:** Collect and Annotate Corpus (database of words, like positive and negative tweets)
 
-**Step 1:** Preprocess data 
+**Step 1:** Preprocess data (same as for [[Logistic Regression]])
 - Lowercase
 - Remove punctuation, urls, names
 - Remove stop words

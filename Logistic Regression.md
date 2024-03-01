@@ -8,7 +8,8 @@
 
 [[Week1_Slides.pdf|Week 1 Lecture Slides from the course]]
 
-### Features in NLP
+---
+# Features in NLP
 
 **Tokenization** - the process of breaking a complex piece of text into smaller units (tokens)
 - A token can be as simple as a word or punctuation 
@@ -25,7 +26,7 @@
 ![[Pasted image 20240227164358.png]]
 
 ---
-### Preprocessing:
+# Preprocessing:
 
 **Stop Words** - Words that appear in English but don't have much affect on the sentiment/meaning of sentences
 - Ex. And, Is, Are, At, Has, For, A
@@ -45,7 +46,7 @@
 
 ---
 
-### Putting it All Together
+# Putting it All Together
 
 
 Cycle - Here's a simple three-step cycle for converting text data to data that is ready to be fed into Machine Learning Models:
@@ -61,7 +62,7 @@ Cycle - Here's a simple three-step cycle for converting text data to data that i
 
 ---
 
-### Logistic Regression
+# Logistic Regression
 
 ![[Pasted image 20240227185801.png]]
 - Here, $\theta$ (theta) represents the vector (list) of all the weights (ex. $\theta_0$ represents the bias (b), while $\theta_1$ represents the first weight). In other words, it's the same thing as "w" in y = wx + b. 
