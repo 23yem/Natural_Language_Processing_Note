@@ -11,9 +11,11 @@
             "id": "f5da14340c67a02b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "pictures/Pasted image 20240229215132.png"
+                "file": "Vector Space Models.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pictures/Pasted image 20240229215132.png",
+                "file": "Vector Space Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pictures/Pasted image 20240229215132.png",
+                "file": "Vector Space Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pictures/Pasted image 20240229215132.png"
+                "file": "Vector Space Models.md"
               }
             }
           }
@@ -144,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9624bcc4cbdd9d41",
+  "active": "f5da14340c67a02b",
   "lastOpenFiles": [
+    "Naive Bayes.md",
+    "pictures/Pasted image 20240229215132.png",
     "Vector Space Models.md",
     "pictures/Pasted image 20240229220751.png",
     "pictures/Pasted image 20240229220706.png",
     "Labs/Week3_Vector_Space_Models/Week3_Lab2_Manipulating_Word_Embeddings.ipynb",
     "Labs/Week3_Lab2_Manipulating_Word_Embeddings.ipynb",
     "Week3_Lab2_Manipulating_Word_Embeddings.ipynb",
-    "pictures/Pasted image 20240229215132.png",
     "pictures/Pasted image 20240229213214.png",
-    "Naive Bayes.md",
     "Lecture_Slides/Week2_Slides.pdf",
     "Logistic Regression.md",
     "Lecture_Slides/Week1_Slides.pdf",

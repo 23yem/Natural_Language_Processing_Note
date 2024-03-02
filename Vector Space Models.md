@@ -8,6 +8,7 @@ Table of Contents:
 
 [[Week3_Slides.pdf|Week 3 Lecture Slides from the course]]
 
+
 ---
 # Vector Space Models
 
