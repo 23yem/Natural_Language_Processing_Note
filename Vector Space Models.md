@@ -4,6 +4,7 @@ Table of Contents:
 	[[#Vector Space Models]]
 	[[#Word Embeddings]]
 	[[#Similarity Metric]]
+	[[#Visualization and PCA (Principal Components Analysis)]]
 	
 
 [[Week3_Slides.pdf|Week 3 Lecture Slides from the course]]
@@ -74,3 +75,29 @@ Table of Contents:
 - But, the Cosine Similarity doesn't punish the "Food Corpus" for having a small size (it has a great personality) so it correctly identifies that it's more close to "Agriculture corpus" than "History corpus" is. 
 
 ---
+
+# Visualization and PCA (Principal Components Analysis)
+
+
+**PCA (Principal Components Analysis)** -  is an unsupervised learning algorithm which can be used to **reduce the dimension of your data**. As a result, it allows you to visualize your data. It tries to combine variances across features. Here is a concrete example of PCA: 
+![[Pasted image 20240302105221.png]]
+- We use PCA to find the most dimensions of the vector and lower the number of dimensions (number of features) of the data so that it's less complex and a lot easier to plot/visualize. Some of the features might be useless as well, so PCA helps us focus on the most important dimensions of the vectors
+- Here is a visualization:
+	![[Pasted image 20240302105447.png]]
+
+
+
+[**PCA Algorithm:**](https://www.coursera.org/learn/classification-vector-spaces-in-nlp/supplement/Xd2w5/pca-algorithm)
+- Mean normalize your data
+- Compute the covariance matrix
+- Compute SVD on your covariance matrix. This returns [USV] = svd(Σ). The three matrices U, S, V are drawn above. U is labelled with eigenvectors, and S is labelled with eigenvalues.
+	- **Eigenvector**: the resulting vectors, also known as the uncorrelated features of your data
+	- **Eigenvalue:** the amount of information retained by each new feature. You can think of it as the variance in the eigenvector.
+	- Also each **eigenvalue** has a corresponding eigenvector. The eigenvalue tells you how much variance there is in the eigenvector. Here are the steps required to compute PCA:
+- You can then use the first n columns of vector U, to get your new data by multiplying XU[:,0:n].
+![[Pasted image 20240302110233.png]]
+![[Pasted image 20240302110253.png]]
+
+
+---
+
