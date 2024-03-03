@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2572da1b4cb3bbc2",
+        "id": "4a235f41eaab9dc7",
         "type": "tabs",
         "children": [
           {
-            "id": "f5da14340c67a02b",
+            "id": "9502338650f366c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector Space Models.md",
+                "file": "Machine Translation.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e7c3a972bef1d5b5",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector Space Models.md",
+                "file": "Machine Translation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector Space Models.md",
+                "file": "Machine Translation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector Space Models.md"
+                "file": "Machine Translation.md"
               }
             }
           }
@@ -146,10 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f5da14340c67a02b",
+  "active": "9502338650f366c9",
   "lastOpenFiles": [
-    "pictures/Pasted image 20240302105221.png",
+    "Machine Translation.md",
+    "pictures/Pasted image 20240303113705.png",
+    "Labs/Week4_Machine_Translation/Week4_Lab1_Vector_Manipulation.ipynb",
+    "Labs/Week4_Machine_Translation",
+    "Labs/Week4_Machine_Translations",
+    "Labs/New folder",
+    "Labs/Week4_Lab1_Vector_Manipulation.ipynb",
+    "Week4_Lab1_Vector_Manipulation.ipynb",
+    "pictures/Pasted image 20240303113744.png",
+    "Logistic Regression.md",
+    "Naive Bayes.md",
     "Vector Space Models.md",
+    "previous week.md",
+    "pictures/Pasted image 20240302105221.png",
     "Labs/Week3_Vector_Space_Models/Week3_Lab3_PCA.ipynb",
     "Labs/Week3_Vector_Space_Models/C1_W3_lecture_nb_03_pca.ipynb",
     "Labs/C1_W3_lecture_nb_03_pca.ipynb",
@@ -159,18 +172,8 @@
     "pictures/Pasted image 20240302105447.png",
     "pictures/Pasted image 20240302105444.png",
     "pictures/Pasted image 20240302105439.png",
-    "Naive Bayes.md",
     "pictures/Pasted image 20240229215132.png",
     "pictures/Pasted image 20240229220751.png",
-    "pictures/Pasted image 20240229220706.png",
-    "Labs/Week3_Vector_Space_Models/Week3_Lab2_Manipulating_Word_Embeddings.ipynb",
-    "Labs/Week3_Lab2_Manipulating_Word_Embeddings.ipynb",
-    "Week3_Lab2_Manipulating_Word_Embeddings.ipynb",
-    "pictures/Pasted image 20240229213214.png",
-    "Lecture_Slides/Week2_Slides.pdf",
-    "Logistic Regression.md",
-    "Lecture_Slides/Week1_Slides.pdf",
-    "Labs/Week3_Vector_Space_Models/Week3_Lab1_LinearAlgebra.ipynb",
     "Week.md",
     "[[Week1_Slides.pdf]].md",
     "Welcome.md",
