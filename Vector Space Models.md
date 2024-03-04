@@ -1,4 +1,5 @@
 
+Week 3 of Course 1
 
 Table of Contents:
 	[[#Vector Space Models]]

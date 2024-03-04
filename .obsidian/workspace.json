@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Translation.md",
+                "file": "Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Translation.md",
+                "file": "Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine Translation.md",
+                "file": "Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine Translation.md"
+                "file": "Logistic Regression.md"
               }
             }
           }
@@ -148,18 +148,20 @@
   },
   "active": "9502338650f366c9",
   "lastOpenFiles": [
-    "Lecture_Slides/Week4_Slides.pdf",
-    "Machine Translation.md",
+    "Naive Bayes.md",
     "Vector Space Models.md",
-    "Pasted image 20240304135946.png",
-    "Pasted image 20240304135727.png",
-    "Pasted image 20240304135725.png",
-    "Pasted image 20240304135143.png",
+    "Machine Translation.md",
+    "Logistic Regression.md",
+    "pictures/Pasted image 20240304133756.png",
+    "Lecture_Slides/Week4_Slides.pdf",
+    "pictures/Pasted image 20240304135946.png",
+    "pictures/Pasted image 20240304135727.png",
+    "pictures/Pasted image 20240304135725.png",
+    "pictures/Pasted image 20240304135143.png",
     "Labs/Week4_Machine_Translation/Week4_Lab2_hash_functions_and_multiplanes.ipynb",
     "Labs/Week4_Lab2_hash_functions_and_multiplanes.ipynb",
     "Week4_Lab2_hash_functions_and_multiplanes.ipynb",
-    "Pasted image 20240304134307.png",
-    "Pasted image 20240304133756.png",
+    "pictures/Pasted image 20240304134307.png",
     "pictures/Pasted image 20240303113705.png",
     "Labs/Week4_Machine_Translation/Week4_Lab1_Vector_Manipulation.ipynb",
     "Labs/Week4_Machine_Translation",
@@ -168,11 +170,8 @@
     "Labs/Week4_Lab1_Vector_Manipulation.ipynb",
     "Week4_Lab1_Vector_Manipulation.ipynb",
     "pictures/Pasted image 20240303113744.png",
-    "Logistic Regression.md",
-    "Naive Bayes.md",
     "previous week.md",
     "pictures/Pasted image 20240302105221.png",
-    "Labs/Week3_Vector_Space_Models/Week3_Lab3_PCA.ipynb",
     "pictures/Pasted image 20240302110253.png",
     "Week.md",
     "[[Week1_Slides.pdf]].md",

@@ -1,4 +1,6 @@
 
+Week 2 of Course 1
+
 Table of Contents:
 	[[#Probability]]
 	[[#Naive Bayes]]
