@@ -11,11 +11,9 @@
             "id": "9502338650f366c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Logistic Regression.md",
-                "mode": "source",
-                "source": false
+                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logistic Regression.md",
+                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Logistic Regression.md",
+                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logistic Regression.md"
+                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf"
               }
             }
           }
@@ -148,10 +146,15 @@
   },
   "active": "9502338650f366c9",
   "lastOpenFiles": [
+    "Logistic Regression.md",
+    "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
+    "Certificates",
+    "New folder",
+    "NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
+    "NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf.crdownload",
     "Naive Bayes.md",
     "Vector Space Models.md",
     "Machine Translation.md",
-    "Logistic Regression.md",
     "pictures/Pasted image 20240304133756.png",
     "Lecture_Slides/Week4_Slides.pdf",
     "pictures/Pasted image 20240304135946.png",
@@ -164,11 +167,6 @@
     "pictures/Pasted image 20240304134307.png",
     "pictures/Pasted image 20240303113705.png",
     "Labs/Week4_Machine_Translation/Week4_Lab1_Vector_Manipulation.ipynb",
-    "Labs/Week4_Machine_Translation",
-    "Labs/Week4_Machine_Translations",
-    "Labs/New folder",
-    "Labs/Week4_Lab1_Vector_Manipulation.ipynb",
-    "Week4_Lab1_Vector_Manipulation.ipynb",
     "pictures/Pasted image 20240303113744.png",
     "previous week.md",
     "pictures/Pasted image 20240302105221.png",
