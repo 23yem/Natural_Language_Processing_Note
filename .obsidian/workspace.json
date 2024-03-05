@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4a235f41eaab9dc7",
+        "id": "ac2ed7abd90070d4",
         "type": "tabs",
         "children": [
           {
-            "id": "9502338650f366c9",
+            "id": "b822048ccacaba01",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf"
+                "file": "Naive Bayes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
+                "file": "Naive Bayes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
+                "file": "Naive Bayes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf"
+                "file": "Naive Bayes.md"
               }
             }
           }
@@ -144,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9502338650f366c9",
+  "active": "b822048ccacaba01",
   "lastOpenFiles": [
     "Logistic Regression.md",
     "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
