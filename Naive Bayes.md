@@ -17,7 +17,8 @@ Table of Contents:
 **Probability of Intersection $P(A \cap B)$** - The probability of $P(A \cap B)$, also written as P(A,B), is the number of elements in the intersection divided by the number of total elements 
 
 ![[Pasted image 20240228164419.png]]
-
+ 
+ 
 
 
 
