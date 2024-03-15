@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8446ad35c3a8075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Autocorrect and Minimum Edit Distance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef67999e95314f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Naive Bayes.md",
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Naive Bayes.md",
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Naive Bayes.md"
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md"
               }
             }
           }
@@ -146,15 +171,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b822048ccacaba01",
+  "active": "ef67999e95314f38",
   "lastOpenFiles": [
+    "Autocorrect and Minimum Edit Distance.md",
+    "Part of Speech Tagging and Hidden Markov's Model.md",
+    "Pasted image 20240315184200.png",
+    "Pasted image 20240315184140.png",
+    "Pasted image 20240315183821.png",
+    "Pasted image 20240315183754.png",
+    "Pasted image 20240315183356.png",
+    "Naive Bayes.md",
     "Logistic Regression.md",
     "Certificates/NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
     "Certificates",
     "New folder",
     "NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf",
     "NLP Specialization Course 1 Certificate SDQ65A8RP2EB.pdf.crdownload",
-    "Naive Bayes.md",
     "Vector Space Models.md",
     "Machine Translation.md",
     "pictures/Pasted image 20240304133756.png",
@@ -166,13 +198,8 @@
     "Labs/Week4_Machine_Translation/Week4_Lab2_hash_functions_and_multiplanes.ipynb",
     "Labs/Week4_Lab2_hash_functions_and_multiplanes.ipynb",
     "Week4_Lab2_hash_functions_and_multiplanes.ipynb",
-    "pictures/Pasted image 20240304134307.png",
-    "pictures/Pasted image 20240303113705.png",
     "Labs/Week4_Machine_Translation/Week4_Lab1_Vector_Manipulation.ipynb",
-    "pictures/Pasted image 20240303113744.png",
     "previous week.md",
-    "pictures/Pasted image 20240302105221.png",
-    "pictures/Pasted image 20240302110253.png",
     "Week.md",
     "[[Week1_Slides.pdf]].md",
     "Welcome.md",
