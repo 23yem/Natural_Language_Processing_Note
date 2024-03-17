@@ -6,6 +6,7 @@ Table of Contents:
 	[[#Minimum Edit Distance]]
 	[[#Minimum Edit Distance Algorithm]]
 
+[[C2_W1.pdf|Week 1 slides]]
 
 ---
 # Autocorrect
