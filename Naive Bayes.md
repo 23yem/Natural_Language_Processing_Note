@@ -30,6 +30,7 @@ Table of Contents:
 
 
 
+
 **Bayes' Rule** - Bayes' Rule says that $P(A \mid B) = P(B \mid A) \times \frac{P(A)}{P(B)}$
 
 ---
