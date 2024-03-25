@@ -35,6 +35,7 @@ Table of Contents:
 
 ---
 
+
 # Naive Bayes 
 
 **Naive Bayes Formula for Binary Classification** - $\prod_{i=1}^{m} \frac{P(w_i|\text{pos})}{P(w_i|\text{neg})}$
