@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a31a769cb0fae2ab",
+        "id": "1cc06cbb2afb500d",
         "type": "tabs",
         "children": [
           {
-            "id": "1e812437087f62f8",
+            "id": "0f26577bbff987b7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autocorrect and Minimum Edit Distance.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autocorrect and Minimum Edit Distance.md",
+                "file": "Lecture_Slides/C2_W1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autocorrect and Minimum Edit Distance.md",
+                "file": "Lecture_Slides/C2_W1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autocorrect and Minimum Edit Distance.md"
+                "file": "Lecture_Slides/C2_W1.pdf"
               }
             }
           }
@@ -146,33 +142,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e812437087f62f8",
+  "active": "9624bcc4cbdd9d41",
   "lastOpenFiles": [
+    "pictures/Pasted image 20240325141457.png",
+    "Autocomplete.md",
+    "Lecture_Slides/C2_W3.pdf",
+    "Autocorrect and Minimum Edit Distance.md",
+    "Lecture_Slides/C2_W4.pdf",
+    "C2_W4.pdf",
+    "C2_W3.pdf",
+    "pictures/Pasted image 20240325145535.png",
+    "pictures/Pasted image 20240325145520.png",
+    "pictures/Pasted image 20240325145445.png",
+    "pictures/Pasted image 20240325145230.png",
+    "pictures/Pasted image 20240325144859.png",
+    "pictures/Pasted image 20240325144821.png",
+    "pictures/Pasted image 20240325144102.png",
+    "pictures/Pasted image 20240325144027.png",
+    "pictures/Pasted image 20240325143716.png",
+    "pictures/Pasted image 20240325143653.png",
+    "Logistic Regression.md",
+    "Lecture_Slides/C2_W1.pdf",
     "Part of Speech Tagging and Hidden Markov's Model.md",
     "Vector Space Models.md",
     "Lecture_Slides/C2_W2.pdf",
-    "C2_W1.pdf",
     "Lecture_Slides",
-    "pictures/Pasted image 20240316091841.png",
-    "pictures/Pasted image 20240316101441.png",
-    "pictures/Pasted image 20240316101426.png",
-    "pictures/Pasted image 20240316101403.png",
-    "pictures/Pasted image 20240316101219.png",
-    "pictures/Pasted image 20240316100926.png",
-    "pictures/Pasted image 20240316100502.png",
-    "pictures/Pasted image 20240316100301.png",
-    "pictures/Pasted image 20240316100030.png",
-    "pictures/Pasted image 20240316100006.png",
     "pictures",
     "Assignment1/data/shakespeare.txt",
     "Assignment1/w1_unittest.py",
-    "Assignment1/images",
-    "Assignment1/data",
-    "Assignment1/C2_W1_Assignment.ipynb",
-    "Assignment1",
-    "Autocorrect and Minimum Edit Distance.md",
     "Naive Bayes.md",
-    "Logistic Regression.md",
     "Machine Translation.md",
     "previous week.md",
     "Week.md",
