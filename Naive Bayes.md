@@ -22,6 +22,7 @@ Table of Contents:
 
 
 
+
 **Conditional Probabilities $P(B | A)$** - The probability of $P(B | A)$ means the probability of B given A. This probability is given by the number of elements in B divided by the total number of elements in A. 
 - Importantly, $P(A \mid B) = \frac{P(A \cap B)}{P(B)}$
 
