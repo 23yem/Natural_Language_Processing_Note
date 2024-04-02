@@ -11,8 +11,12 @@
             "id": "0f26577bbff987b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Word Embeddings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lecture_Slides/C2_W1.pdf",
+                "file": "Word Embeddings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lecture_Slides/C2_W1.pdf",
+                "file": "Word Embeddings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lecture_Slides/C2_W1.pdf"
+                "file": "Word Embeddings.md"
               }
             }
           }
@@ -142,13 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9624bcc4cbdd9d41",
+  "active": "0f26577bbff987b7",
   "lastOpenFiles": [
-    "pictures/Pasted image 20240325141457.png",
+    "Pasted image 20240401113442.png",
+    "Pasted image 20240401112956.png",
+    "Pasted image 20240401112534.png",
+    "Pasted image 20240401112109.png",
+    "Vector Space Models.md",
+    "Part of Speech Tagging and Hidden Markov's Model.md",
+    "Naive Bayes.md",
+    "Machine Translation.md",
+    "Logistic Regression.md",
     "Autocomplete.md",
-    "Lecture_Slides/C2_W3.pdf",
+    "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W1.pdf",
     "Autocorrect and Minimum Edit Distance.md",
-    "Lecture_Slides/C2_W4.pdf",
+    "Word Embeddings.md",
+    "pictures/Pasted image 20240325141457.png",
+    "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W3.pdf",
+    "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W4.pdf",
     "C2_W4.pdf",
     "C2_W3.pdf",
     "pictures/Pasted image 20240325145535.png",
@@ -157,21 +172,11 @@
     "pictures/Pasted image 20240325145230.png",
     "pictures/Pasted image 20240325144859.png",
     "pictures/Pasted image 20240325144821.png",
-    "pictures/Pasted image 20240325144102.png",
-    "pictures/Pasted image 20240325144027.png",
-    "pictures/Pasted image 20240325143716.png",
-    "pictures/Pasted image 20240325143653.png",
-    "Logistic Regression.md",
-    "Lecture_Slides/C2_W1.pdf",
-    "Part of Speech Tagging and Hidden Markov's Model.md",
-    "Vector Space Models.md",
-    "Lecture_Slides/C2_W2.pdf",
-    "Lecture_Slides",
+    "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W2.pdf",
+    "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1",
     "pictures",
     "Assignment1/data/shakespeare.txt",
     "Assignment1/w1_unittest.py",
-    "Naive Bayes.md",
-    "Machine Translation.md",
     "previous week.md",
     "Week.md",
     "[[Week1_Slides.pdf]].md",
