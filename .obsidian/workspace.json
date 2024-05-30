@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Word Embeddings.md",
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Word Embeddings.md",
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Word Embeddings.md",
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Word Embeddings.md"
+                "file": "Part of Speech Tagging and Hidden Markov's Model.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "0f26577bbff987b7",
   "lastOpenFiles": [
+    "Word Embeddings.md",
     "Pasted image 20240401113442.png",
     "Pasted image 20240401112956.png",
     "Pasted image 20240401112534.png",
@@ -160,7 +161,6 @@
     "Autocomplete.md",
     "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W1.pdf",
     "Autocorrect and Minimum Edit Distance.md",
-    "Word Embeddings.md",
     "pictures/Pasted image 20240325141457.png",
     "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W3.pdf",
     "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W4.pdf",
@@ -171,7 +171,6 @@
     "pictures/Pasted image 20240325145445.png",
     "pictures/Pasted image 20240325145230.png",
     "pictures/Pasted image 20240325144859.png",
-    "pictures/Pasted image 20240325144821.png",
     "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1/C2_W2.pdf",
     "Course 1 (Classification and Vector Spaces)/Lecture_Slides 1",
     "pictures",
