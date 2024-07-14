@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebcfc2a9ef403d8e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +157,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f26577bbff987b7",
+  "active": "ebcfc2a9ef403d8e",
   "lastOpenFiles": [
     "Word Embeddings.md",
     "Pasted image 20240401113442.png",
